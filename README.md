@@ -1,7 +1,10 @@
 # Itzling_Street_Network
 
-The goal of this web map was to show the connectedness of streets of similar types and their relative importance. Under the assumption that streets can be categorised by their importance, this map should reveal the stress lying on the street in question.  
-This map also shows the connectivity of streets.
+The goal of this web map was to show the connectedness of streets of similar types and their relative importance. 
+
+Under the assumption that streets can be categorised and weighted by their importance, this map should reveal the stress lying on the street in question.  
+
+This map also shows the connectivity of streets of the same type.
 ## Data
 
 ### Source
