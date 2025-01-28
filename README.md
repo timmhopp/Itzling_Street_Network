@@ -35,7 +35,7 @@ As OSM provides a wide range of different types of roads, a "hierarchy" was defi
 
 ## How it works
 
-![stepbystep.jpeg](/images/stepbystep.jpeg)
+![stepbystep.jpeg](/images/stepsbystep.jpeg)
 
 I) get weight of the clicked on street  
 II) identify all nodes and iterate over them  
