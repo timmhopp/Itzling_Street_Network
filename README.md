@@ -4,7 +4,7 @@
 
 ### Source
 
-[OpenStreetMap](https://www.openstreetmap.org/#map=12/47.8017/13.1469), extracted via [Overpass Turbo](https://overpass-turbo.eu)
+[OpenStreetMap](https://www.openstreetmap.org/#map=12/47.8017/13.1469), extracted via [Overpass Turbo](https://overpass-turbo.eu)  
 
 ![Overpass turbo](/images/overpass_turbo.png)
 
@@ -19,19 +19,19 @@
 
 As OSM provides a wide range of different types of roads, a "hierarchy" was defined, trying to classify the streets by their importance to overall traffic. For this, the following weights were created for calculations:
 
-   `"motorway": 13,
-    "primary": 12,
-    "secondary": 11,
-    "tertiary": 10,
-    "residential": 9,
-    "living_street": 8,
-    "service": 7,
-    "motorway_link": 6,
-    "track": 5,
-    "cycleway": 4,
-    "footway": 3,
-    "path": 2,
-    "unclassified": 1`
+   `"motorway": 13,  
+    "primary": 12,  
+    "secondary": 11,  
+    "tertiary": 10,  
+    "residential": 9,  
+    "living_street": 8,  
+    "service": 7,  
+    "motorway_link": 6,  
+    "track": 5,  
+    "cycleway": 4,  
+    "footway": 3,  
+    "path": 2,  
+    "unclassified": 1`  
 
 ## How it works
 
